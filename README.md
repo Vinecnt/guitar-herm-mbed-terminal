@@ -1,4 +1,4 @@
-# guitar-herm-mbed-terminal
+# guitar-hero-mbed-terminal
 
 ## Description
 
